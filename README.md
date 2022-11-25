@@ -51,7 +51,7 @@ If you want to try out the application, you might have to satisfy some requireme
 - Webcam
 
 ### 4.2 - Clone this repository
-- Clone this repository using `git clone https://github.com/VedantMistry13/American-Sign-Language-Recognition-using-Deep-Learning`.
+- Clone this repository using `git clone https://github.com/LeonidAlekseev/American-Sign-Language-Recognition-using-Deep-Learning`.
 
 ### 4.3 - Executing the script
 1. Open a command prompt inside the cloned repository folder or just open a command prompt and navigate to the cloned directory.
