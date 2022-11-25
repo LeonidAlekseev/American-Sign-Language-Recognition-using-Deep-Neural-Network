@@ -8,8 +8,7 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 data_generator = ImageDataGenerator(samplewise_center=True, samplewise_std_normalization=True)
 
 # Loading the model.
-MODEL_NAME = 'models/asl_alphabet_{}.h5'.format(9575)
-model = load_model(MODEL_NAME)
+model = load_model('models/final.h5')
 
 # Setting up the input image size and frame crop size.
 IMAGE_SIZE = 200
